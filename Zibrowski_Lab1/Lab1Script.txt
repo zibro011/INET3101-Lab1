@@ -1,0 +1,55 @@
+Script started on 2021-02-01 20:08:13-06:00 [TERM="xterm-256color" TTY="/dev/tty1" COLUMNS="120" LINES="30"]
+]0;zibro011@DESKTOP-D2RL0K4: /mnt/c/users/zibad/INET3101[01;32mzibro011@DESKTOP-D2RL0K4[00m:[01;34m/mnt/c/users/zibad/INET3101[00m$ script Project1.txtcd /mnt/c/users/zibad/INET3101./a.out[Kgcc lab1.c
+]0;zibro011@DESKTOP-D2RL0K4: /mnt/c/users/zibad/INET3101[01;32mzibro011@DESKTOP-D2RL0K4[00m:[01;34m/mnt/c/users/zibad/INET3101[00m$ gcc lab1.cscript Project1.txtcd /mnt/c/users/zibad/INET3101./a.out[K
+MENU
+=====
+1) Total sum
+2) Total weekday
+3) Total employee
+4) Exit
+Enter selection : 1
+The selection was 1
+Total = 3356752.000000 
+MENU
+=====
+1) Total sum
+2) Total weekday
+3) Total employee
+4) Exit
+Enter selection : 2
+The selection was 2
+Wednesday total = 3829396.000000 
+MENU
+=====
+1) Total sum
+2) Total weekday
+3) Total employee
+4) Exit
+Enter selection : 3
+The selection was 3
+Enter employee number:3
+Employee total = 4138093.250000 
+MENU
+=====
+1) Total sum
+2) Total weekday
+3) Total employee
+4) Exit
+Enter selection : 3
+The selection was 3
+Enter employee number:9
+Invalid employee number
+Enter employee number:4
+Employee total = 4438830.000000 
+MENU
+=====
+1) Total sum
+2) Total weekday
+3) Total employee
+4) Exit
+Enter selection : 4
+The selection was 4
+]0;zibro011@DESKTOP-D2RL0K4: /mnt/c/users/zibad/INET3101[01;32mzibro011@DESKTOP-D2RL0K4[00m:[01;34m/mnt/c/users/zibad/INET3101[00m$ exit
+exit
+
+Script done on 2021-02-01 20:09:09-06:00 [COMMAND_EXIT_CODE="0"]
